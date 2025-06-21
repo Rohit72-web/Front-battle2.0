@@ -43,17 +43,7 @@ A modern React-based frontend project featuring:
    yarn start
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the app.
-
-## Deployment
-
-You can deploy this project easily on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).  
-For Netlify, make sure to set the build command to `npm run build` and the publish directory to `build`.
-
-If you use React Router, add a `_redirects` file in the `public` folder with:
-```
-/*    /index.html   200
-```
+4. Open [https://luminous-manatee-1a6b74.netlify.app) to view the app.
 
 ## Folder Structure
 
